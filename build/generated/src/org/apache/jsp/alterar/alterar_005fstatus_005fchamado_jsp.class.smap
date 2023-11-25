@@ -1,0 +1,18 @@
+SMAP
+alterar_005fstatus_005fchamado_jsp.java
+JSP
+*S JSP
+*F
++ 0 alterar_status_chamado.jsp
+alterar/alterar_status_chamado.jsp
+*L
+5,75:48
+81,8:125
+88,3:133
+91:136,3
+92,2:139
+94,5:141,3
+99,4:156
+103,5:161
+107,5:166
+*E
